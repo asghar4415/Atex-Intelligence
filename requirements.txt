@@ -1,0 +1,6 @@
+pandas
+apify-client
+google-generativeai
+python-dotenv
+streamlit
+plotly
